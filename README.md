@@ -5,5 +5,5 @@ Specify the source folder name and output format in the inputs.json file
 
 To run:
 '''
-python3 extract.py
+python extract.py
 '''
